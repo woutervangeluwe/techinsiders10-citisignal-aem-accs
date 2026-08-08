@@ -8,6 +8,7 @@
     "/content/forms/af/:/forms/"
   ],
   "includes": [
-    "/content/CitiSignal/"
+    "/content/CitiSignal/",
+    "/content/forms/af/"
   ]
 }
